@@ -36,7 +36,7 @@ my knowledge to real-world projects and stay updated with industry trends
 <p>
   
   <img alt="SQLite" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaunt&theme=blue-green" />
-  <img alt="SQLite" src="https://github-readme-stats.vercel.app/api?username=Thejaunt&theme=blue-green" />
+  
   
 
 </p>

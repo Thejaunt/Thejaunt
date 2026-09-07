@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-serhii_milov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhii-milov/)](https://www.linkedin.com/in/serhii-milov/)
 [![Gmail Badge](https://img.shields.io/badge/-serhiimilov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serhiimilov@gmail.com)](mailto:serhiimilov@gmail.com)
 
-I am an aspiring Python Developer with a strong foundation in web development. My educational background and
-personal projects have equipped me with valuable skills in Python and web frameworks. I am eager to contribute
-my knowledge to real-world projects and stay updated with industry trends
+
 
 
 
